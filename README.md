@@ -3,4 +3,4 @@
 
 This repository is a series of notebooks that show my solutions for the projects at Dataquest.io.
 
-Applications_research.ipynb
+- Applications_research.ipynb
